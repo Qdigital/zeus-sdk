@@ -33,7 +33,7 @@
     "@types/node": "^12.7.5",
     "babel-polyfill": "^6.26.0",
     "bignumber.js": "^9.0.0",
-    "documentation": "^12.1.4",
+    "documentation": "^13.0.2",
     "eosjs": "^20.0.0",
     "eosjs-ecc": "^4.0.7",
     "es5-shim": "4.5.15",
